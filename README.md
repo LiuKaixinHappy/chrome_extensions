@@ -1,6 +1,6 @@
 # Voilentmoneky安装说明：
 
-1. [下载](./Violentmonkey-webext-v2.16.0.zip)并解压缩zip包，记录解压路径
+1. [下载](https://liukaixinhappy.github.io/chrome_extensions/Violentmonkey-webext-v2.16.0.zip)并解压缩zip包，记录解压路径
 2. 打开Chrome浏览器，输入网址：chrome://extensions/
 3. 打开开发者模式，点「加载已解压的扩展程序」，选择步骤1解压后的文件夹路径，如图：
    ![image](https://github.com/LiuKaixinHappy/chrome_extensions/assets/13094114/f332b675-c9c9-4442-bb56-2cb9d0651435)
